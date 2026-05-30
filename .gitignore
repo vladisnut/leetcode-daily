@@ -1,0 +1,9 @@
+.git/
+.idea/
+.ruff_cache/
+**/__pycache__/
+build/
+
+leetcode-daily.exe
+leetcode-daily.spec
+data
